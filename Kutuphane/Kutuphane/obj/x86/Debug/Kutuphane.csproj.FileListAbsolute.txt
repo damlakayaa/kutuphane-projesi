@@ -1,0 +1,19 @@
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Form1.resources
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Properties.Resources.resources
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.csproj.GenerateResource.Cache
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.exe
+c:\users\erdiyalcin\documents\visual studio 2010\Projects\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.pdb
+C:\Users\erdi\Desktop\ders örnekleri\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.exe
+C:\Users\erdi\Desktop\ders örnekleri\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.pdb
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.exe
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.pdb
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Form1.resources
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\webprog\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.exe
+C:\Users\asus\Desktop\webprog\c# örnek\03072017\03072017\Kutuphane\Kutuphane\obj\x86\Debug\Kutuphane.pdb
